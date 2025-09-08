@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-08T18:03:06 IST" name="Zoom Test Suite" finished-at="2025-09-08T18:03:35 IST" duration-ms="28290">
+  <suite started-at="2025-09-08T18:17:26 IST" name="Zoom Test Suite" finished-at="2025-09-08T18:18:08 IST" duration-ms="42204">
     <groups>
     </groups>
-    <test started-at="2025-09-08T18:03:06 IST" name="Zoom Login Tests" finished-at="2025-09-08T18:03:35 IST" duration-ms="28290">
+    <test started-at="2025-09-08T18:17:26 IST" name="Zoom Login Tests" finished-at="2025-09-08T18:18:08 IST" duration-ms="42204">
       <class name="testCases.TC01_LoginPage">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:06 IST" name="setup" finished-at="2025-09-08T18:03:08 IST" duration-ms="1799" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:17:26 IST" name="setup" finished-at="2025-09-08T18:17:28 IST" duration-ms="1862" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogin()[pri:0, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:08 IST" name="testLogin" finished-at="2025-09-08T18:03:12 IST" duration-ms="3938" status="PASS">
+        <test-method signature="testLogin()[pri:0, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:17:28 IST" name="testLogin" finished-at="2025-09-08T18:17:31 IST" duration-ms="3332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLoginWindow()[pri:1, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:12 IST" name="testLoginWindow" finished-at="2025-09-08T18:03:20 IST" duration-ms="8404" status="PASS">
+        <test-method signature="testLoginWindow()[pri:1, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:17:31 IST" name="testLoginWindow" finished-at="2025-09-08T18:17:40 IST" duration-ms="8544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWindow -->
-        <test-method signature="meetingsPage()[pri:2, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:20 IST" name="meetingsPage" finished-at="2025-09-08T18:03:31 IST" duration-ms="10091" status="PASS">
+        <test-method signature="meetingsPage()[pri:2, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:17:40 IST" name="meetingsPage" finished-at="2025-09-08T18:18:04 IST" duration-ms="24008" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- meetingsPage -->
-        <test-method signature="meetingDelete()[pri:3, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:31 IST" name="meetingDelete" finished-at="2025-09-08T18:03:34 IST" duration-ms="3668" status="PASS">
+        <test-method signature="meetingDelete()[pri:3, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:18:04 IST" name="meetingDelete" finished-at="2025-09-08T18:18:08 IST" duration-ms="4031" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- meetingDelete -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC01_LoginPage@707194ba]" started-at="2025-09-08T18:03:34 IST" name="tearDown" finished-at="2025-09-08T18:03:35 IST" duration-ms="351" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC01_LoginPage@6a2f6f80]" started-at="2025-09-08T18:18:08 IST" name="tearDown" finished-at="2025-09-08T18:18:08 IST" duration-ms="392" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
